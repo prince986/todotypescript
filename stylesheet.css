@@ -1,0 +1,30 @@
+#top{
+    background-color: red;
+    margin-left:20px;
+    margin-top: 5%;
+    padding: 10px;
+}
+#completelist{
+    background-color: darkorange;
+    margin-left: 20px;
+    padding: 10px;
+    padding-bottom: 4px;
+    margin-top: 10px;
+    border: medium;
+}
+#todolist{
+    background-color: darkorange;
+    margin-left: 20px;
+    padding: 10px;
+    padding-bottom: 4px;
+    margin-top: 10px;
+    border: medium;
+}
+#deletelist{
+    background-color: darkorange;
+    margin-left: 20px;
+    padding: 10px;
+    padding-bottom: 4px;
+    margin-top: 10px;
+    border: medium;
+}
